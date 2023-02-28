@@ -4,6 +4,8 @@ This is Marlin 2.1.2 built for the following BlueR-Plus Configuration.
 
 Different Drivers: configure steps, 1.8 degree motor verion included as a comment
 
+Please check your nozzle to probe offset. Default
+Was -2.8 however mine was -2.0.
 
 Blu-5 BlueR-Plus Configuration:
 -------------------------------
