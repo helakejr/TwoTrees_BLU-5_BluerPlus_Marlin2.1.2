@@ -1,6 +1,9 @@
 Files:
+
 Marlin-2.1.2.TT_BlueR-Plus.zip - Zip file containing the Marlin source.
+
 Robin_nano43.bin - pre-built firmware.
+
 ReadMe.md - This file that you are reading.
 
 This is Marlin 2.1.2 built for the following BLU-5 BlueR-Plus Configuration.
