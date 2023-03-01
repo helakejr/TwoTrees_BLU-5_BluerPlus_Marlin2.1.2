@@ -1,4 +1,5 @@
-Marlin-2.1.2.TT_BlueR-Plus.patch
+Marlin-2.1.2.TT_BlueR-Plus.patch.zip
+Containing the Marlin folder.
 
 This is Marlin 2.1.2 built for the following BlueR-Plus Configuration.
 
