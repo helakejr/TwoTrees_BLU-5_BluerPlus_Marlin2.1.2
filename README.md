@@ -11,7 +11,7 @@ This is Marlin 2.1.2 built for the following BLU-5 BlueR-Plus Configuration.
 - MKS Robin TFT43 V1.0
 - 3D touch
 - Drivers: 5xTMC2209
-- Stepper Motors: X,Y,Z,Z2,E0
+- Stepper Motors: X,Y,Z/Z2,E0
   Usongshine 42SHDC3045Z-16BD
 - Stepper Motors: X,Y act like 0.9° motors.
 
