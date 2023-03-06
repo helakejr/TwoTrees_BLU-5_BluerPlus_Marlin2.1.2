@@ -13,7 +13,7 @@ This is Marlin 2.1.2 built for the following BLU-5 BlueR-Plus Configuration.
 - Drivers: 5xTMC2209
 - Stepper Motors: X,Y,Z0,Z1,E0
   Usongshine 42SHDC3045Z-16BD
-- Stepper Motors: X,Y are 0.9° 
+- Stepper Motors: X,Y act like 0.9° motors.
 
 Changes:
 - Different Drivers: configure steps, 1.8 degree motor verion included in configuration.h
